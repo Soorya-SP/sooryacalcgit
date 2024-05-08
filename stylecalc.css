@@ -1,0 +1,16 @@
+#result{
+    text-align: right;
+}
+#col-main-div{
+    width: 400px;
+    height:auto;
+    background-color: black;
+     border-radius: 5px; 
+     padding:2px 2px
+}
+#btnac{
+    background-color:orange;
+    color:black;
+    width:100%;
+    
+}
